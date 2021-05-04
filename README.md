@@ -10,3 +10,5 @@
 - Help bank to create strategy preventing customers move to competitor by understanding customers behaviour through customes churn prediction
 - Find out which features/columns affecting customers to churn
 - This research will be utilized to created customers churn prediction Machine Learning Model
+
+Data Source : https://www.kaggle.com/shubh0799/churn-modelling
